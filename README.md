@@ -1,13 +1,12 @@
 # Animations_PhD_thesis
 
-## **FDTD full-wave propagation of a wave (X-mode).**
+## **FDTD full-wave propagation of a wave (X-mode) on equilibrium density profile.**
 <p align="center">
    <img src="wave_solver_stability.gif" width="800"/>
 </p>
 
-
-## **Temporal evolution of denormalized Hasegawa-Wakatani turbulence snapshots**
+## **FDTD full-Wave propagation of a wave (X-mode) in a frozen turbulence snapshot.**
 <p align="center">
-   <img src="animation_TOKAM2D_g=0_X.gif" width="650"/>
+   <img src="Wave_propagation.gif" width="800"/>
 </p>
 
