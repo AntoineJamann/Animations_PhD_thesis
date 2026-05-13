@@ -4,3 +4,10 @@
 <p align="center">
    <img src="wave_solver_stability.gif" width="800"/>
 </p>
+
+
+## **Temporal evolution of denormalized Hasegawa-Wakatani turbulence snapshots**
+<p align="center">
+   <img src="animation_TOKAM2D_g=0_X.gif" width="650"/>
+</p>
+
