@@ -10,3 +10,13 @@
    <img src="Wave_propagation.gif" width="800"/>
 </p>
 
+## **GYSELA density fluctuation evolution (before transformation).**
+<p align="center">
+   <img src="gys_polar.gif" width="800"/>
+</p>
+
+## **GYSELA density fluctuation evolution (after transformation).**
+<p align="center">
+   <img src="gys_cartesian.gif" width="800"/>
+</p>
+
